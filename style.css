@@ -1,8 +1,12 @@
-h1{color: indigo;
+h1{
+    color: indigo;
 }
 h3{
-color:#64DFDF;
+    color:#64DFDF;
 }
 li{
-font-family: 'Noto Serif', serif;
+    font-family: 'Noto Serif', serif;
+}
+ul{
+    list-style-type: none;
 }
