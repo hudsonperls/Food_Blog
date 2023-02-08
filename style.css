@@ -6,7 +6,25 @@ h3{
 }
 li{
     font-family: 'Noto Serif', serif;
+    display: block;
+    float: left;
+    padding: 30px 10px;
 }
 ul{
+    
     list-style-type: none;
+}
+ul#navbar{
+    background-color: darkolivegreen;
+    color: white;
+}
+.special{
+    color:crimson;
+}
+#one{
+    color:fuchsia;
+}
+a{
+    color:white;
+    text-decoration: none;
 }
